@@ -1,20 +1,14 @@
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:2563eb&height=180&section=header&text=Michelle%20Vava&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20engineer%20%C2%B7%20Halifax%2C%20Nova%20Scotia&descAlignY=58&descSize=16" width="100%" alt="Michelle Vava, full-stack engineer in Halifax, Nova Scotia"/>
-
 <p align="center">
-  <a href="https://portfolio-beta-three-8q8rlmg076.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=14B8A6&center=true&vCenter=true&width=620&lines=I+replace+complex+spreadsheets+with+software+people+use.;C%23+%2F+.NET+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Azure;Building+for+Canada+first%3A+tax%2C+booking%2C+vehicles%2C+food." alt="I replace complex spreadsheets with software people use."/>
-  </a>
+  <img src="assets/header.svg" width="100%" alt="Michelle Vava, full-stack engineer in Halifax, Nova Scotia. I replace complex spreadsheets with software people trust."/>
 </p>
 
 <p align="center">
-  <a href="https://portfolio-beta-three-8q8rlmg076.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/michellevava/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.eatsbymichelle.com"><img src="https://img.shields.io/badge/Eats_by_Michelle-E85D04?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Eats by Michelle"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Michelle-Vava&style=for-the-badge&color=2563eb&label=Profile+views" alt="Profile views"/>
+  <a href="https://portfolio-beta-three-8q8rlmg076.vercel.app"><img src="assets/btn-portfolio.svg" height="46" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/michellevava/"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn"/></a>
+  <a href="https://www.eatsbymichelle.com"><img src="assets/btn-eats.svg" height="46" alt="Eats by Michelle"/></a>
 </p>
 
----
+<br/>
 
 ### 👩🏽‍💻 About me
 
@@ -24,19 +18,19 @@
 - 🌱 After hours I build my own products: Canadian tax tools, booking, vehicle management, and a site for my meal-prep business.
 - 🏃🏽‍♀️ Former varsity track & field athlete · Top 64, March Madness Pitch Competition (2021)
 
----
+<br/>
 
 ### 🛠️ What I'm building
 
 <p align="center">
-  <a href="https://github.com/Michelle-Vava/loonie"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Michelle-Vava&repo=loonie&theme=transparent&hide_border=true&title_color=14B8A6&icon_color=14B8A6&text_color=8b949e&description_lines_count=2" width="49%" alt="Loonie"/></a>
-  <a href="https://github.com/Michelle-Vava/BookNow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Michelle-Vava&repo=BookNow&theme=transparent&hide_border=true&title_color=14B8A6&icon_color=14B8A6&text_color=8b949e&description_lines_count=2" width="49%" alt="BookNow"/></a>
-  <a href="https://github.com/Michelle-Vava/VehicleHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Michelle-Vava&repo=VehicleHub&theme=transparent&hide_border=true&title_color=14B8A6&icon_color=14B8A6&text_color=8b949e&description_lines_count=2" width="49%" alt="VehicleHub"/></a>
-  <a href="https://github.com/Michelle-Vava/eatsbymichelle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Michelle-Vava&repo=eatsbymichelle&theme=transparent&hide_border=true&title_color=14B8A6&icon_color=14B8A6&text_color=8b949e&description_lines_count=2" width="49%" alt="Eats by Michelle"/></a>
+  <a href="https://github.com/Michelle-Vava/loonie"><img src="assets/card-loonie.svg" width="49%" alt="Loonie: tax tools, money coaching and quotes for Canadian freelancers"/></a>
+  <a href="https://github.com/Michelle-Vava/BookNow"><img src="assets/card-booknow.svg" width="49%" alt="BookNow: same-day booking for local services in Halifax"/></a>
+  <a href="https://github.com/Michelle-Vava/VehicleHub"><img src="assets/card-vehiclehub.svg" width="49%" alt="VehicleHub: vehicle manager for personal cars, families and small fleets"/></a>
+  <a href="https://github.com/Michelle-Vava/eatsbymichelle"><img src="assets/card-eats.svg" width="49%" alt="Eats by Michelle: website for my Halifax home-cooking service"/></a>
 </p>
 
 <details>
-<summary><b>📱 More projects (mobile betas and earlier work)</b></summary>
+<summary><b>📱 More projects: mobile betas and earlier work</b></summary>
 <br/>
 
 | Project | What it is | Stack |
@@ -47,43 +41,27 @@
 
 </details>
 
----
+<br/>
 
 ### 🧰 Tech stack
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,python,react,nextjs,vite,tailwind&perline=9" alt="C#, .NET, TypeScript, JavaScript, Python, React, Next.js, Vite, Tailwind"/></a>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,python,react,nextjs,vite,tailwind&perline=9" alt="C#, .NET, TypeScript, JavaScript, Python, React, Next.js, Vite, Tailwind"/>
   <br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,postgres,prisma,redis,supabase,azure&perline=9" alt="Node.js, NestJS, Django, PostgreSQL, Prisma, Redis, Supabase, Azure"/></a>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,postgres,prisma,redis,supabase,azure&perline=9" alt="Node.js, NestJS, Django, PostgreSQL, Prisma, Redis, Supabase, Azure"/>
   <br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,vercel,heroku,githubactions,git,jest,vitest,visualstudio,vscode&perline=9" alt="Docker, Vercel, Heroku, GitHub Actions, Git, Jest, Vitest, Visual Studio, VS Code"/></a>
+  <img src="https://skillicons.dev/icons?i=docker,vercel,heroku,githubactions,git,jest,vitest,visualstudio,vscode&perline=9" alt="Docker, Vercel, Heroku, GitHub Actions, Git, Jest, Vitest, Visual Studio, VS Code"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET MVC"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query"/>
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" alt="Zustand"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk"/>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
-</p>
+<p align="center"><sub><b>Also:</b> ASP.NET MVC · SQL Server · React Native · Expo · TanStack Query · Zustand · Framer Motion · Socket.IO · Clerk · Stripe · Playwright</sub></p>
 
----
+<br/>
 
 ### 📈 Live activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Michelle-Vava&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=14B8A6&icon_color=14B8A6&text_color=8b949e&ring_color=14B8A6" width="49%" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com?user=Michelle-Vava&hide_border=true&background=00000000&ring=14B8A6&fire=E85D04&currStreakLabel=14B8A6&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="49%" alt="Contribution streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michelle-Vava&layout=donut-vertical&langs_count=8&exclude_repo=Kutenga,dev,ShareEats,nopCommerce,Tracker&hide_border=true&theme=transparent&title_color=14B8A6&text_color=8b949e" height="300" alt="Most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Michelle-Vava&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=cbd5e1&ring_color=2dd4bf&border_radius=16" width="49%" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com?user=Michelle-Vava&hide_border=true&border_radius=16&background=0d1117&ring=2dd4bf&fire=f59e0b&currStreakLabel=2dd4bf&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=f1f5f9&sideNums=f1f5f9&stroke=1f2937" width="49%" alt="Contribution streak"/>
 </p>
 
 <p align="center">
@@ -96,8 +74,10 @@
   <img src="https://raw.githubusercontent.com/Michelle-Vava/Michelle-Vava/output/snake.svg" width="100%" alt="Snake eating my contribution graph"/>
 </picture>
 
----
+<br/>
 
-<p align="center"><i>Always happy to talk about turning spreadsheets into software, Canadian tax logic, or a good meal-prep menu.</i> 🍲</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0d9488&height=100&section=footer" width="100%" alt=""/>
+<p align="center">
+  <sub><i>Always happy to talk about turning spreadsheets into software, Canadian tax logic, or a good meal-prep menu.</i> 🍲</sub>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Michelle-Vava&style=flat-square&color=14b8a6&label=profile+views" alt="Profile views"/>
+</p>

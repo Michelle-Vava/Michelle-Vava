@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 252 56" width="252" height="56" role="img" aria-label="Eats by Michelle">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f59e0b"/><stop offset="1" stop-color="#14b8a6"/></linearGradient>
+  </defs>
+  <style>
+    .glow { animation: glow 3s ease-in-out infinite; animation-delay: 2s; }
+    .steam { animation: steam 2.4s ease-in-out infinite; }
+    .s2 { animation-delay: 0.6s; } .s3 { animation-delay: 1.2s; }
+    @keyframes glow { 0%,100% { stroke-opacity: 0.55; } 50% { stroke-opacity: 1; } }
+    @keyframes steam { 0% { opacity: 0; transform: translateY(2px); } 40% { opacity: 1; } 100% { opacity: 0; transform: translateY(-3px); } }
+  </style>
+  <rect x="1" y="1" width="250" height="54" rx="27" fill="#0d1117"/>
+  <rect class="glow" x="1" y="1" width="250" height="54" rx="27" fill="none" stroke="url(#b)" stroke-width="2"/>
+  <g transform="translate(29 15)" fill="none" stroke="#fbbf24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path class="steam" d="M8 6c-1.2-1.5 1.2-2.5 0-4"/>
+    <path class="steam s2" d="M13 6c-1.2-1.5 1.2-2.5 0-4"/>
+    <path class="steam s3" d="M18 6c-1.2-1.5 1.2-2.5 0-4"/>
+    <path d="M1 11h24c0 6.6-5.4 12-12 12S1 17.6 1 11z"/>
+    <path d="M8 26h10"/>
+  </g>
+  <text x="72" y="35" font-family="'Segoe UI', -apple-system, Arial, sans-serif" font-size="17" font-weight="600" fill="#e2e8f0">Eats by Michelle</text>
+  <text x="220" y="35" font-family="'Segoe UI', -apple-system, Arial, sans-serif" font-size="17" fill="#fbbf24">↗</text>
+</svg>
