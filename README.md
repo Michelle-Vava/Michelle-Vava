@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/michellevava/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://portfolio-ruddy-six-7bmfk127gd.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://portfolio-beta-three-8q8rlmg076.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://eatsbymichelle.vercel.app"><img src="https://img.shields.io/badge/Eats_by_Michelle-E85D04?style=for-the-badge&logo=react&logoColor=white" alt="Eats by Michelle"/></a>
 </p>
 
